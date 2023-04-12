@@ -1,18 +1,24 @@
-# Simple gulp template
-Its a simple gulp-template with:
-* **.scss** 
-* **optimize images**
-* **autoprefixer** 
-* **stylelint** 
-* **linthtml** 
-* **eslint** 
-* **deploy package**
+# **NAMU landing page** [**(Link)**](https://vo7kov.github.io/landing-museum/)
 
-## It has next commands (use ```npm run 'command'``` to run them)
-* **lint** - launches all linters. If your code incorrect (for example .js) it will stop on js linter and you'll need to restart linters
-* **optimize** - optimizes images. You need to upload them into ```src/images/src/```, then run the command and the output will be in ```src/images/dest/``` folder
-* **deploy** - deploy to gh-pages
+## **Technologies**
+- HTML
+- SCSS
+- JS
+- Gulp.js
 
-## Important thing
-* For the html docs you need to use ```./images/your_folder/your_file``` to paste them
-* For the scss docs you need to use ```../images/your_folder/your_file```
+<br />
+
+## **Adaptive**
+From 320px
+
+<br />
+
+## **How to run**
+1. Install node v. 14.18.0
+2. Open project and run `npm i`
+3. Write `npm start`
+4. Done
+
+<br />
+
+## **Link to the mockup** [**(Link)**](https://www.figma.com/file/ZCGHf3SHQn6UjSnwEIXGtY/%D0%9D%D0%90%D0%9C%D0%A3?node-id=0%3A1&t=oVjACWBaOaZPHi9W-1)
